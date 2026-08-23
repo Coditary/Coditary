@@ -520,3 +520,6 @@
 [submodule "registry/tempify"]
 	path = registry/tempify
 	url = https://github.com/Coditary/tempify-registry.git
+[submodule "plugins/reqpack/beez"]
+	path = plugins/reqpack/beez
+	url = https://github.com/Coditary/rqp-plugin-beez.git
