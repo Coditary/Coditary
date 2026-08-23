@@ -34,12 +34,6 @@
 [submodule "apps/zshaper"]
 	path = apps/zshaper
 	url = https://github.com/Coditary/ZShaper.git
-[submodule "templates/cpp-default-project"]
-	path = templates/cpp-default-project
-	url = https://github.com/Coditary/CPP-Default-Project.git
-[submodule "templates/project-blueprint"]
-	path = templates/project-blueprint
-	url = https://github.com/Coditary/Project-Blueprint.git
 [submodule "plugins/beez/clang"]
 	path = plugins/beez/clang
 	url = https://github.com/Coditary/beez-clang.git
@@ -529,6 +523,6 @@
 [submodule "tempify/registry"]
 	path = tempify/registry
 	url = https://github.com/Coditary/tempify-registry.git
-[submodule "tempify/templates"]
-	path = tempify/templates
+[submodule "templates"]
+	path = templates
 	url = https://github.com/Coditary/tempify-templates.git
