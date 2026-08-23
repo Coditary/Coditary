@@ -520,9 +520,6 @@
 [submodule "plugins/reqpack/plugins/zypper"]
 	path = plugins/reqpack/plugins/zypper
 	url = https://github.com/Coditary/rqp-plugin-zypper.git
-[submodule "tempify/registry"]
-	path = tempify/registry
-	url = https://github.com/Coditary/tempify-registry.git
 [submodule "templates"]
 	path = templates
 	url = https://github.com/Coditary/tempify-templates.git
