@@ -13,12 +13,6 @@
 [submodule "apps/dottery"]
 	path = apps/dottery
 	url = https://github.com/Coditary/Dottery.git
-[submodule "apps/ipmc"]
-	path = apps/ipmc
-	url = https://github.com/Coditary/Ipmc.git
-[submodule "apps/nexis"]
-	path = apps/nexis
-	url = https://github.com/Coditary/Nexis.git
 [submodule "apps/noctua"]
 	path = apps/noctua
 	url = https://github.com/Coditary/Noctua.git
@@ -28,9 +22,6 @@
 [submodule "apps/prebyte"]
 	path = apps/prebyte
 	url = https://github.com/Coditary/Prebyte.git
-[submodule "apps/prebyte-2.0"]
-	path = apps/prebyte-2.0
-	url = https://github.com/Coditary/Prebyte-2.0.git
 [submodule "apps/reqpack"]
 	path = apps/reqpack
 	url = https://github.com/Coditary/ReqPack.git
