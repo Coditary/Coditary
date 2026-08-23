@@ -16,9 +16,6 @@
 [submodule "apps/noctua"]
 	path = apps/noctua
 	url = https://github.com/Coditary/Noctua.git
-[submodule "apps/nxpm"]
-	path = apps/nxpm
-	url = https://github.com/Coditary/NXPM.git
 [submodule "apps/prebyte"]
 	path = apps/prebyte
 	url = https://github.com/Coditary/Prebyte.git
