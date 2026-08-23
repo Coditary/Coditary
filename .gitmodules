@@ -523,3 +523,6 @@
 [submodule "registry/reqpack"]
 	path = registry/reqpack
 	url = https://github.com/Coditary/rqp-registry.git
+[submodule "registry/tempify"]
+	path = registry/tempify
+	url = https://github.com/Coditary/tempify-registry.git
