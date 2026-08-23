@@ -58,458 +58,455 @@
 [submodule "plugins/beez/pipeline"]
 	path = plugins/beez/pipeline
 	url = https://github.com/Coditary/beez-pipeline.git
-[submodule "plugins/reqpack/template-wrapper"]
-	path = plugins/reqpack/template-wrapper
-	url = https://github.com/Coditary/reqpack-plugin-template-wrapper.git
-[submodule "plugins/reqpack/plugins/a2"]
-	path = plugins/reqpack/plugins/a2
+[submodule "plugins/reqpack/a2"]
+	path = plugins/reqpack/a2
 	url = https://github.com/Coditary/rqp-plugin-a2.git
-[submodule "plugins/reqpack/plugins/alire"]
-	path = plugins/reqpack/plugins/alire
+[submodule "plugins/reqpack/alire"]
+	path = plugins/reqpack/alire
 	url = https://github.com/Coditary/rqp-plugin-alire.git
-[submodule "plugins/reqpack/plugins/am"]
-	path = plugins/reqpack/plugins/am
+[submodule "plugins/reqpack/am"]
+	path = plugins/reqpack/am
 	url = https://github.com/Coditary/rqp-plugin-am.git
-[submodule "plugins/reqpack/plugins/ant"]
-	path = plugins/reqpack/plugins/ant
+[submodule "plugins/reqpack/ant"]
+	path = plugins/reqpack/ant
 	url = https://github.com/Coditary/rqp-plugin-ant.git
-[submodule "plugins/reqpack/plugins/antigen"]
-	path = plugins/reqpack/plugins/antigen
+[submodule "plugins/reqpack/antigen"]
+	path = plugins/reqpack/antigen
 	url = https://github.com/Coditary/rqp-plugin-antigen.git
-[submodule "plugins/reqpack/plugins/apk"]
-	path = plugins/reqpack/plugins/apk
+[submodule "plugins/reqpack/apk"]
+	path = plugins/reqpack/apk
 	url = https://github.com/Coditary/rqp-plugin-apk.git
-[submodule "plugins/reqpack/plugins/apt"]
-	path = plugins/reqpack/plugins/apt
+[submodule "plugins/reqpack/apt"]
+	path = plugins/reqpack/apt
 	url = https://github.com/Coditary/rqp-plugin-apt.git
-[submodule "plugins/reqpack/plugins/asdf"]
-	path = plugins/reqpack/plugins/asdf
+[submodule "plugins/reqpack/asdf"]
+	path = plugins/reqpack/asdf
 	url = https://github.com/Coditary/rqp-plugin-asdf.git
-[submodule "plugins/reqpack/plugins/atoms"]
-	path = plugins/reqpack/plugins/atoms
+[submodule "plugins/reqpack/atoms"]
+	path = plugins/reqpack/atoms
 	url = https://github.com/Coditary/rqp-plugin-atoms.git
-[submodule "plugins/reqpack/plugins/bal"]
-	path = plugins/reqpack/plugins/bal
+[submodule "plugins/reqpack/bal"]
+	path = plugins/reqpack/bal
 	url = https://github.com/Coditary/rqp-plugin-bal.git
-[submodule "plugins/reqpack/plugins/boss"]
-	path = plugins/reqpack/plugins/boss
+[submodule "plugins/reqpack/boss"]
+	path = plugins/reqpack/boss
 	url = https://github.com/Coditary/rqp-plugin-boss.git
-[submodule "plugins/reqpack/plugins/bundler"]
-	path = plugins/reqpack/plugins/bundler
+[submodule "plugins/reqpack/bundler"]
+	path = plugins/reqpack/bundler
 	url = https://github.com/Coditary/rqp-plugin-bundler.git
-[submodule "plugins/reqpack/plugins/cabal"]
-	path = plugins/reqpack/plugins/cabal
+[submodule "plugins/reqpack/cabal"]
+	path = plugins/reqpack/cabal
 	url = https://github.com/Coditary/rqp-plugin-cabal.git
-[submodule "plugins/reqpack/plugins/carbon"]
-	path = plugins/reqpack/plugins/carbon
+[submodule "plugins/reqpack/carbon"]
+	path = plugins/reqpack/carbon
 	url = https://github.com/Coditary/rqp-plugin-carbon.git
-[submodule "plugins/reqpack/plugins/cargo"]
-	path = plugins/reqpack/plugins/cargo
+[submodule "plugins/reqpack/cargo"]
+	path = plugins/reqpack/cargo
 	url = https://github.com/Coditary/rqp-plugin-cargo.git
-[submodule "plugins/reqpack/plugins/carthage"]
-	path = plugins/reqpack/plugins/carthage
+[submodule "plugins/reqpack/carthage"]
+	path = plugins/reqpack/carthage
 	url = https://github.com/Coditary/rqp-plugin-carthage.git
-[submodule "plugins/reqpack/plugins/clasp"]
-	path = plugins/reqpack/plugins/clasp
+[submodule "plugins/reqpack/clasp"]
+	path = plugins/reqpack/clasp
 	url = https://github.com/Coditary/rqp-plugin-clasp.git
-[submodule "plugins/reqpack/plugins/cocoapods"]
-	path = plugins/reqpack/plugins/cocoapods
+[submodule "plugins/reqpack/cocoapods"]
+	path = plugins/reqpack/cocoapods
 	url = https://github.com/Coditary/rqp-plugin-cocoapods.git
-[submodule "plugins/reqpack/plugins/composer"]
-	path = plugins/reqpack/plugins/composer
+[submodule "plugins/reqpack/composer"]
+	path = plugins/reqpack/composer
 	url = https://github.com/Coditary/rqp-plugin-composer.git
-[submodule "plugins/reqpack/plugins/conan"]
-	path = plugins/reqpack/plugins/conan
+[submodule "plugins/reqpack/conan"]
+	path = plugins/reqpack/conan
 	url = https://github.com/Coditary/rqp-plugin-conan.git
-[submodule "plugins/reqpack/plugins/conda"]
-	path = plugins/reqpack/plugins/conda
+[submodule "plugins/reqpack/conda"]
+	path = plugins/reqpack/conda
 	url = https://github.com/Coditary/rqp-plugin-conda.git
-[submodule "plugins/reqpack/plugins/corral"]
-	path = plugins/reqpack/plugins/corral
+[submodule "plugins/reqpack/corral"]
+	path = plugins/reqpack/corral
 	url = https://github.com/Coditary/rqp-plugin-corral.git
-[submodule "plugins/reqpack/plugins/cpan"]
-	path = plugins/reqpack/plugins/cpan
+[submodule "plugins/reqpack/cpan"]
+	path = plugins/reqpack/cpan
 	url = https://github.com/Coditary/rqp-plugin-cpan.git
-[submodule "plugins/reqpack/plugins/cpanm"]
-	path = plugins/reqpack/plugins/cpanm
+[submodule "plugins/reqpack/cpanm"]
+	path = plugins/reqpack/cpanm
 	url = https://github.com/Coditary/rqp-plugin-cpanm.git
-[submodule "plugins/reqpack/plugins/cran"]
-	path = plugins/reqpack/plugins/cran
+[submodule "plugins/reqpack/cran"]
+	path = plugins/reqpack/cran
 	url = https://github.com/Coditary/rqp-plugin-cran.git
-[submodule "plugins/reqpack/plugins/ctan"]
-	path = plugins/reqpack/plugins/ctan
+[submodule "plugins/reqpack/ctan"]
+	path = plugins/reqpack/ctan
 	url = https://github.com/Coditary/rqp-plugin-ctan.git
-[submodule "plugins/reqpack/plugins/deft"]
-	path = plugins/reqpack/plugins/deft
+[submodule "plugins/reqpack/deft"]
+	path = plugins/reqpack/deft
 	url = https://github.com/Coditary/rqp-plugin-deft.git
-[submodule "plugins/reqpack/plugins/devtools"]
-	path = plugins/reqpack/plugins/devtools
+[submodule "plugins/reqpack/devtools"]
+	path = plugins/reqpack/devtools
 	url = https://github.com/Coditary/rqp-plugin-devtools.git
-[submodule "plugins/reqpack/plugins/dnf"]
-	path = plugins/reqpack/plugins/dnf
+[submodule "plugins/reqpack/dnf"]
+	path = plugins/reqpack/dnf
 	url = https://github.com/Coditary/rqp-plugin-dnf.git
-[submodule "plugins/reqpack/plugins/docker"]
-	path = plugins/reqpack/plugins/docker
+[submodule "plugins/reqpack/docker"]
+	path = plugins/reqpack/docker
 	url = https://github.com/Coditary/rqp-plugin-docker.git
-[submodule "plugins/reqpack/plugins/dotnet"]
-	path = plugins/reqpack/plugins/dotnet
+[submodule "plugins/reqpack/dotnet"]
+	path = plugins/reqpack/dotnet
 	url = https://github.com/Coditary/rqp-plugin-dotnet.git
-[submodule "plugins/reqpack/plugins/dpkg"]
-	path = plugins/reqpack/plugins/dpkg
+[submodule "plugins/reqpack/dpkg"]
+	path = plugins/reqpack/dpkg
 	url = https://github.com/Coditary/rqp-plugin-dpkg.git
-[submodule "plugins/reqpack/plugins/dub"]
-	path = plugins/reqpack/plugins/dub
+[submodule "plugins/reqpack/dub"]
+	path = plugins/reqpack/dub
 	url = https://github.com/Coditary/rqp-plugin-dub.git
-[submodule "plugins/reqpack/plugins/eiffelstudio"]
-	path = plugins/reqpack/plugins/eiffelstudio
+[submodule "plugins/reqpack/eiffelstudio"]
+	path = plugins/reqpack/eiffelstudio
 	url = https://github.com/Coditary/rqp-plugin-eiffelstudio.git
-[submodule "plugins/reqpack/plugins/elan"]
-	path = plugins/reqpack/plugins/elan
+[submodule "plugins/reqpack/elan"]
+	path = plugins/reqpack/elan
 	url = https://github.com/Coditary/rqp-plugin-elan.git
-[submodule "plugins/reqpack/plugins/elm-package"]
-	path = plugins/reqpack/plugins/elm-package
+[submodule "plugins/reqpack/elm-package"]
+	path = plugins/reqpack/elm-package
 	url = https://github.com/Coditary/rqp-plugin-elm-package.git
-[submodule "plugins/reqpack/plugins/elpa"]
-	path = plugins/reqpack/plugins/elpa
+[submodule "plugins/reqpack/elpa"]
+	path = plugins/reqpack/elpa
 	url = https://github.com/Coditary/rqp-plugin-elpa.git
-[submodule "plugins/reqpack/plugins/eupm"]
-	path = plugins/reqpack/plugins/eupm
+[submodule "plugins/reqpack/eupm"]
+	path = plugins/reqpack/eupm
 	url = https://github.com/Coditary/rqp-plugin-eupm.git
-[submodule "plugins/reqpack/plugins/fan"]
-	path = plugins/reqpack/plugins/fan
+[submodule "plugins/reqpack/fan"]
+	path = plugins/reqpack/fan
 	url = https://github.com/Coditary/rqp-plugin-fan.git
-[submodule "plugins/reqpack/plugins/flatpak"]
-	path = plugins/reqpack/plugins/flatpak
+[submodule "plugins/reqpack/flatpak"]
+	path = plugins/reqpack/flatpak
 	url = https://github.com/Coditary/rqp-plugin-flatpak.git
-[submodule "plugins/reqpack/plugins/flix"]
-	path = plugins/reqpack/plugins/flix
+[submodule "plugins/reqpack/flix"]
+	path = plugins/reqpack/flix
 	url = https://github.com/Coditary/rqp-plugin-flix.git
-[submodule "plugins/reqpack/plugins/foundry"]
-	path = plugins/reqpack/plugins/foundry
+[submodule "plugins/reqpack/foundry"]
+	path = plugins/reqpack/foundry
 	url = https://github.com/Coditary/rqp-plugin-foundry.git
-[submodule "plugins/reqpack/plugins/fpm"]
-	path = plugins/reqpack/plugins/fpm
+[submodule "plugins/reqpack/fpm"]
+	path = plugins/reqpack/fpm
 	url = https://github.com/Coditary/rqp-plugin-fpm.git
-[submodule "plugins/reqpack/plugins/futhark"]
-	path = plugins/reqpack/plugins/futhark
+[submodule "plugins/reqpack/futhark"]
+	path = plugins/reqpack/futhark
 	url = https://github.com/Coditary/rqp-plugin-futhark.git
-[submodule "plugins/reqpack/plugins/gem"]
-	path = plugins/reqpack/plugins/gem
+[submodule "plugins/reqpack/gem"]
+	path = plugins/reqpack/gem
 	url = https://github.com/Coditary/rqp-plugin-gem.git
-[submodule "plugins/reqpack/plugins/getit"]
-	path = plugins/reqpack/plugins/getit
+[submodule "plugins/reqpack/getit"]
+	path = plugins/reqpack/getit
 	url = https://github.com/Coditary/rqp-plugin-getit.git
-[submodule "plugins/reqpack/plugins/gh"]
-	path = plugins/reqpack/plugins/gh
+[submodule "plugins/reqpack/gh"]
+	path = plugins/reqpack/gh
 	url = https://github.com/Coditary/rqp-plugin-gh.git
-[submodule "plugins/reqpack/plugins/gh-advisory"]
-	path = plugins/reqpack/plugins/gh-advisory
+[submodule "plugins/reqpack/gh-advisory"]
+	path = plugins/reqpack/gh-advisory
 	url = https://github.com/Coditary/rqp-plugin-gh-advisory.git
-[submodule "plugins/reqpack/plugins/ghskill"]
-	path = plugins/reqpack/plugins/ghskill
+[submodule "plugins/reqpack/ghskill"]
+	path = plugins/reqpack/ghskill
 	url = https://github.com/Coditary/rqp-plugin-ghskill.git
-[submodule "plugins/reqpack/plugins/gleam"]
-	path = plugins/reqpack/plugins/gleam
+[submodule "plugins/reqpack/gleam"]
+	path = plugins/reqpack/gleam
 	url = https://github.com/Coditary/rqp-plugin-gleam.git
-[submodule "plugins/reqpack/plugins/go"]
-	path = plugins/reqpack/plugins/go
+[submodule "plugins/reqpack/go"]
+	path = plugins/reqpack/go
 	url = https://github.com/Coditary/rqp-plugin-go.git
-[submodule "plugins/reqpack/plugins/gradle"]
-	path = plugins/reqpack/plugins/gradle
+[submodule "plugins/reqpack/gradle"]
+	path = plugins/reqpack/gradle
 	url = https://github.com/Coditary/rqp-plugin-gradle.git
-[submodule "plugins/reqpack/plugins/gt"]
-	path = plugins/reqpack/plugins/gt
+[submodule "plugins/reqpack/gt"]
+	path = plugins/reqpack/gt
 	url = https://github.com/Coditary/rqp-plugin-gt.git
-[submodule "plugins/reqpack/plugins/guildhall"]
-	path = plugins/reqpack/plugins/guildhall
+[submodule "plugins/reqpack/guildhall"]
+	path = plugins/reqpack/guildhall
 	url = https://github.com/Coditary/rqp-plugin-guildhall.git
-[submodule "plugins/reqpack/plugins/guix"]
-	path = plugins/reqpack/plugins/guix
+[submodule "plugins/reqpack/guix"]
+	path = plugins/reqpack/guix
 	url = https://github.com/Coditary/rqp-plugin-guix.git
-[submodule "plugins/reqpack/plugins/hardhat"]
-	path = plugins/reqpack/plugins/hardhat
+[submodule "plugins/reqpack/hardhat"]
+	path = plugins/reqpack/hardhat
 	url = https://github.com/Coditary/rqp-plugin-hardhat.git
-[submodule "plugins/reqpack/plugins/haxelib"]
-	path = plugins/reqpack/plugins/haxelib
+[submodule "plugins/reqpack/haxelib"]
+	path = plugins/reqpack/haxelib
 	url = https://github.com/Coditary/rqp-plugin-haxelib.git
-[submodule "plugins/reqpack/plugins/hbmk2"]
-	path = plugins/reqpack/plugins/hbmk2
+[submodule "plugins/reqpack/hbmk2"]
+	path = plugins/reqpack/hbmk2
 	url = https://github.com/Coditary/rqp-plugin-hbmk2.git
-[submodule "plugins/reqpack/plugins/hex"]
-	path = plugins/reqpack/plugins/hex
+[submodule "plugins/reqpack/hex"]
+	path = plugins/reqpack/hex
 	url = https://github.com/Coditary/rqp-plugin-hex.git
-[submodule "plugins/reqpack/plugins/homebrew"]
-	path = plugins/reqpack/plugins/homebrew
+[submodule "plugins/reqpack/homebrew"]
+	path = plugins/reqpack/homebrew
 	url = https://github.com/Coditary/rqp-plugin-homebrew.git
-[submodule "plugins/reqpack/plugins/huggingface"]
-	path = plugins/reqpack/plugins/huggingface
+[submodule "plugins/reqpack/huggingface"]
+	path = plugins/reqpack/huggingface
 	url = https://github.com/Coditary/rqp-plugin-huggingface.git
-[submodule "plugins/reqpack/plugins/idris2-pkg"]
-	path = plugins/reqpack/plugins/idris2-pkg
+[submodule "plugins/reqpack/idris2-pkg"]
+	path = plugins/reqpack/idris2-pkg
 	url = https://github.com/Coditary/rqp-plugin-idris2-pkg.git
-[submodule "plugins/reqpack/plugins/inform7"]
-	path = plugins/reqpack/plugins/inform7
+[submodule "plugins/reqpack/inform7"]
+	path = plugins/reqpack/inform7
 	url = https://github.com/Coditary/rqp-plugin-inform7.git
-[submodule "plugins/reqpack/plugins/io"]
-	path = plugins/reqpack/plugins/io
+[submodule "plugins/reqpack/io"]
+	path = plugins/reqpack/io
 	url = https://github.com/Coditary/rqp-plugin-io.git
-[submodule "plugins/reqpack/plugins/jbang"]
-	path = plugins/reqpack/plugins/jbang
+[submodule "plugins/reqpack/jbang"]
+	path = plugins/reqpack/jbang
 	url = https://github.com/Coditary/rqp-plugin-jbang.git
-[submodule "plugins/reqpack/plugins/kpm"]
-	path = plugins/reqpack/plugins/kpm
+[submodule "plugins/reqpack/kpm"]
+	path = plugins/reqpack/kpm
 	url = https://github.com/Coditary/rqp-plugin-kpm.git
-[submodule "plugins/reqpack/plugins/kxi"]
-	path = plugins/reqpack/plugins/kxi
+[submodule "plugins/reqpack/kxi"]
+	path = plugins/reqpack/kxi
 	url = https://github.com/Coditary/rqp-plugin-kxi.git
-[submodule "plugins/reqpack/plugins/lake"]
-	path = plugins/reqpack/plugins/lake
+[submodule "plugins/reqpack/lake"]
+	path = plugins/reqpack/lake
 	url = https://github.com/Coditary/rqp-plugin-lake.git
-[submodule "plugins/reqpack/plugins/leiningen"]
-	path = plugins/reqpack/plugins/leiningen
+[submodule "plugins/reqpack/leiningen"]
+	path = plugins/reqpack/leiningen
 	url = https://github.com/Coditary/rqp-plugin-leiningen.git
-[submodule "plugins/reqpack/plugins/logtalk"]
-	path = plugins/reqpack/plugins/logtalk
+[submodule "plugins/reqpack/logtalk"]
+	path = plugins/reqpack/logtalk
 	url = https://github.com/Coditary/rqp-plugin-logtalk.git
-[submodule "plugins/reqpack/plugins/longtalk"]
-	path = plugins/reqpack/plugins/longtalk
+[submodule "plugins/reqpack/longtalk"]
+	path = plugins/reqpack/longtalk
 	url = https://github.com/Coditary/rqp-plugin-longtalk.git
-[submodule "plugins/reqpack/plugins/luarocks"]
-	path = plugins/reqpack/plugins/luarocks
+[submodule "plugins/reqpack/luarocks"]
+	path = plugins/reqpack/luarocks
 	url = https://github.com/Coditary/rqp-plugin-luarocks.git
-[submodule "plugins/reqpack/plugins/mamba"]
-	path = plugins/reqpack/plugins/mamba
+[submodule "plugins/reqpack/mamba"]
+	path = plugins/reqpack/mamba
 	url = https://github.com/Coditary/rqp-plugin-mamba.git
-[submodule "plugins/reqpack/plugins/mcpm"]
-	path = plugins/reqpack/plugins/mcpm
+[submodule "plugins/reqpack/mcpm"]
+	path = plugins/reqpack/mcpm
 	url = https://github.com/Coditary/rqp-plugin-mcpm.git
-[submodule "plugins/reqpack/plugins/melpa"]
-	path = plugins/reqpack/plugins/melpa
+[submodule "plugins/reqpack/melpa"]
+	path = plugins/reqpack/melpa
 	url = https://github.com/Coditary/rqp-plugin-melpa.git
-[submodule "plugins/reqpack/plugins/meson"]
-	path = plugins/reqpack/plugins/meson
+[submodule "plugins/reqpack/meson"]
+	path = plugins/reqpack/meson
 	url = https://github.com/Coditary/rqp-plugin-meson.git
-[submodule "plugins/reqpack/plugins/metacello"]
-	path = plugins/reqpack/plugins/metacello
+[submodule "plugins/reqpack/metacello"]
+	path = plugins/reqpack/metacello
 	url = https://github.com/Coditary/rqp-plugin-metacello.git
-[submodule "plugins/reqpack/plugins/microdnf"]
-	path = plugins/reqpack/plugins/microdnf
+[submodule "plugins/reqpack/microdnf"]
+	path = plugins/reqpack/microdnf
 	url = https://github.com/Coditary/rqp-plugin-microdnf.git
-[submodule "plugins/reqpack/plugins/miktex"]
-	path = plugins/reqpack/plugins/miktex
+[submodule "plugins/reqpack/miktex"]
+	path = plugins/reqpack/miktex
 	url = https://github.com/Coditary/rqp-plugin-miktex.git
-[submodule "plugins/reqpack/plugins/mill"]
-	path = plugins/reqpack/plugins/mill
+[submodule "plugins/reqpack/mill"]
+	path = plugins/reqpack/mill
 	url = https://github.com/Coditary/rqp-plugin-mill.git
-[submodule "plugins/reqpack/plugins/mise"]
-	path = plugins/reqpack/plugins/mise
+[submodule "plugins/reqpack/mise"]
+	path = plugins/reqpack/mise
 	url = https://github.com/Coditary/rqp-plugin-mise.git
-[submodule "plugins/reqpack/plugins/mmc"]
-	path = plugins/reqpack/plugins/mmc
+[submodule "plugins/reqpack/mmc"]
+	path = plugins/reqpack/mmc
 	url = https://github.com/Coditary/rqp-plugin-mmc.git
-[submodule "plugins/reqpack/plugins/mojo"]
-	path = plugins/reqpack/plugins/mojo
+[submodule "plugins/reqpack/mojo"]
+	path = plugins/reqpack/mojo
 	url = https://github.com/Coditary/rqp-plugin-mojo.git
-[submodule "plugins/reqpack/plugins/newlisp_bin"]
-	path = plugins/reqpack/plugins/newlisp_bin
+[submodule "plugins/reqpack/newlisp_bin"]
+	path = plugins/reqpack/newlisp_bin
 	url = https://github.com/Coditary/rqp-plugin-newlisp_bin.git
-[submodule "plugins/reqpack/plugins/nimble"]
-	path = plugins/reqpack/plugins/nimble
+[submodule "plugins/reqpack/nimble"]
+	path = plugins/reqpack/nimble
 	url = https://github.com/Coditary/rqp-plugin-nimble.git
-[submodule "plugins/reqpack/plugins/nix"]
-	path = plugins/reqpack/plugins/nix
+[submodule "plugins/reqpack/nix"]
+	path = plugins/reqpack/nix
 	url = https://github.com/Coditary/rqp-plugin-nix.git
-[submodule "plugins/reqpack/plugins/npm"]
-	path = plugins/reqpack/plugins/npm
+[submodule "plugins/reqpack/npm"]
+	path = plugins/reqpack/npm
 	url = https://github.com/Coditary/rqp-plugin-npm.git
-[submodule "plugins/reqpack/plugins/nuget"]
-	path = plugins/reqpack/plugins/nuget
+[submodule "plugins/reqpack/nuget"]
+	path = plugins/reqpack/nuget
 	url = https://github.com/Coditary/rqp-plugin-nuget.git
-[submodule "plugins/reqpack/plugins/octave-forge"]
-	path = plugins/reqpack/plugins/octave-forge
+[submodule "plugins/reqpack/octave-forge"]
+	path = plugins/reqpack/octave-forge
 	url = https://github.com/Coditary/rqp-plugin-octave-forge.git
-[submodule "plugins/reqpack/plugins/ocx"]
-	path = plugins/reqpack/plugins/ocx
+[submodule "plugins/reqpack/ocx"]
+	path = plugins/reqpack/ocx
 	url = https://github.com/Coditary/rqp-plugin-ocx.git
-[submodule "plugins/reqpack/plugins/odpkg"]
-	path = plugins/reqpack/plugins/odpkg
+[submodule "plugins/reqpack/odpkg"]
+	path = plugins/reqpack/odpkg
 	url = https://github.com/Coditary/rqp-plugin-odpkg.git
-[submodule "plugins/reqpack/plugins/ollama"]
-	path = plugins/reqpack/plugins/ollama
+[submodule "plugins/reqpack/ollama"]
+	path = plugins/reqpack/ollama
 	url = https://github.com/Coditary/rqp-plugin-ollama.git
-[submodule "plugins/reqpack/plugins/oobabooga"]
-	path = plugins/reqpack/plugins/oobabooga
+[submodule "plugins/reqpack/oobabooga"]
+	path = plugins/reqpack/oobabooga
 	url = https://github.com/Coditary/rqp-plugin-oobabooga.git
-[submodule "plugins/reqpack/plugins/opa"]
-	path = plugins/reqpack/plugins/opa
+[submodule "plugins/reqpack/opa"]
+	path = plugins/reqpack/opa
 	url = https://github.com/Coditary/rqp-plugin-opa.git
-[submodule "plugins/reqpack/plugins/opam"]
-	path = plugins/reqpack/plugins/opam
+[submodule "plugins/reqpack/opam"]
+	path = plugins/reqpack/opam
 	url = https://github.com/Coditary/rqp-plugin-opam.git
-[submodule "plugins/reqpack/plugins/pacman"]
-	path = plugins/reqpack/plugins/pacman
+[submodule "plugins/reqpack/pacman"]
+	path = plugins/reqpack/pacman
 	url = https://github.com/Coditary/rqp-plugin-pacman.git
-[submodule "plugins/reqpack/plugins/paket"]
-	path = plugins/reqpack/plugins/paket
+[submodule "plugins/reqpack/paket"]
+	path = plugins/reqpack/paket
 	url = https://github.com/Coditary/rqp-plugin-paket.git
-[submodule "plugins/reqpack/plugins/paru"]
-	path = plugins/reqpack/plugins/paru
+[submodule "plugins/reqpack/paru"]
+	path = plugins/reqpack/paru
 	url = https://github.com/Coditary/rqp-plugin-paru.git
-[submodule "plugins/reqpack/plugins/pinokio"]
-	path = plugins/reqpack/plugins/pinokio
+[submodule "plugins/reqpack/pinokio"]
+	path = plugins/reqpack/pinokio
 	url = https://github.com/Coditary/rqp-plugin-pinokio.git
-[submodule "plugins/reqpack/plugins/pinto"]
-	path = plugins/reqpack/plugins/pinto
+[submodule "plugins/reqpack/pinto"]
+	path = plugins/reqpack/pinto
 	url = https://github.com/Coditary/rqp-plugin-pinto.git
-[submodule "plugins/reqpack/plugins/pnpm"]
-	path = plugins/reqpack/plugins/pnpm
+[submodule "plugins/reqpack/pnpm"]
+	path = plugins/reqpack/pnpm
 	url = https://github.com/Coditary/rqp-plugin-pnpm.git
-[submodule "plugins/reqpack/plugins/podman"]
-	path = plugins/reqpack/plugins/podman
+[submodule "plugins/reqpack/podman"]
+	path = plugins/reqpack/podman
 	url = https://github.com/Coditary/rqp-plugin-podman.git
-[submodule "plugins/reqpack/plugins/poetry"]
-	path = plugins/reqpack/plugins/poetry
+[submodule "plugins/reqpack/poetry"]
+	path = plugins/reqpack/poetry
 	url = https://github.com/Coditary/rqp-plugin-poetry.git
-[submodule "plugins/reqpack/plugins/portage"]
-	path = plugins/reqpack/plugins/portage
+[submodule "plugins/reqpack/portage"]
+	path = plugins/reqpack/portage
 	url = https://github.com/Coditary/rqp-plugin-portage.git
-[submodule "plugins/reqpack/plugins/pub"]
-	path = plugins/reqpack/plugins/pub
+[submodule "plugins/reqpack/pub"]
+	path = plugins/reqpack/pub
 	url = https://github.com/Coditary/rqp-plugin-pub.git
-[submodule "plugins/reqpack/plugins/qt"]
-	path = plugins/reqpack/plugins/qt
+[submodule "plugins/reqpack/qt"]
+	path = plugins/reqpack/qt
 	url = https://github.com/Coditary/rqp-plugin-qt.git
-[submodule "plugins/reqpack/plugins/quarks"]
-	path = plugins/reqpack/plugins/quarks
+[submodule "plugins/reqpack/quarks"]
+	path = plugins/reqpack/quarks
 	url = https://github.com/Coditary/rqp-plugin-quarks.git
-[submodule "plugins/reqpack/plugins/quicklisp"]
-	path = plugins/reqpack/plugins/quicklisp
+[submodule "plugins/reqpack/quicklisp"]
+	path = plugins/reqpack/quicklisp
 	url = https://github.com/Coditary/rqp-plugin-quicklisp.git
-[submodule "plugins/reqpack/plugins/raco"]
-	path = plugins/reqpack/plugins/raco
+[submodule "plugins/reqpack/raco"]
+	path = plugins/reqpack/raco
 	url = https://github.com/Coditary/rqp-plugin-raco.git
-[submodule "plugins/reqpack/plugins/rebar3"]
-	path = plugins/reqpack/plugins/rebar3
+[submodule "plugins/reqpack/rebar3"]
+	path = plugins/reqpack/rebar3
 	url = https://github.com/Coditary/rqp-plugin-rebar3.git
-[submodule "plugins/reqpack/plugins/red_cli"]
-	path = plugins/reqpack/plugins/red_cli
+[submodule "plugins/reqpack/red_cli"]
+	path = plugins/reqpack/red_cli
 	url = https://github.com/Coditary/rqp-plugin-red_cli.git
-[submodule "plugins/reqpack/plugins/renv"]
-	path = plugins/reqpack/plugins/renv
+[submodule "plugins/reqpack/renv"]
+	path = plugins/reqpack/renv
 	url = https://github.com/Coditary/rqp-plugin-renv.git
-[submodule "plugins/reqpack/plugins/rpm"]
-	path = plugins/reqpack/plugins/rpm
+[submodule "plugins/reqpack/rpm"]
+	path = plugins/reqpack/rpm
 	url = https://github.com/Coditary/rqp-plugin-rpm.git
-[submodule "plugins/reqpack/plugins/rtx"]
-	path = plugins/reqpack/plugins/rtx
+[submodule "plugins/reqpack/rtx"]
+	path = plugins/reqpack/rtx
 	url = https://github.com/Coditary/rqp-plugin-rtx.git
-[submodule "plugins/reqpack/plugins/salesforce-apex"]
-	path = plugins/reqpack/plugins/salesforce-apex
+[submodule "plugins/reqpack/salesforce-apex"]
+	path = plugins/reqpack/salesforce-apex
 	url = https://github.com/Coditary/rqp-plugin-salesforce-apex.git
-[submodule "plugins/reqpack/plugins/sbt"]
-	path = plugins/reqpack/plugins/sbt
+[submodule "plugins/reqpack/sbt"]
+	path = plugins/reqpack/sbt
 	url = https://github.com/Coditary/rqp-plugin-sbt.git
-[submodule "plugins/reqpack/plugins/scsh"]
-	path = plugins/reqpack/plugins/scsh
+[submodule "plugins/reqpack/scsh"]
+	path = plugins/reqpack/scsh
 	url = https://github.com/Coditary/rqp-plugin-scsh.git
-[submodule "plugins/reqpack/plugins/sdkman"]
-	path = plugins/reqpack/plugins/sdkman
+[submodule "plugins/reqpack/sdkman"]
+	path = plugins/reqpack/sdkman
 	url = https://github.com/Coditary/rqp-plugin-sdkman.git
-[submodule "plugins/reqpack/plugins/shards"]
-	path = plugins/reqpack/plugins/shards
+[submodule "plugins/reqpack/shards"]
+	path = plugins/reqpack/shards
 	url = https://github.com/Coditary/rqp-plugin-shards.git
-[submodule "plugins/reqpack/plugins/skillssh"]
-	path = plugins/reqpack/plugins/skillssh
+[submodule "plugins/reqpack/skillssh"]
+	path = plugins/reqpack/skillssh
 	url = https://github.com/Coditary/rqp-plugin-skillssh.git
-[submodule "plugins/reqpack/plugins/smackage"]
-	path = plugins/reqpack/plugins/smackage
+[submodule "plugins/reqpack/smackage"]
+	path = plugins/reqpack/smackage
 	url = https://github.com/Coditary/rqp-plugin-smackage.git
-[submodule "plugins/reqpack/plugins/smlpkg"]
-	path = plugins/reqpack/plugins/smlpkg
+[submodule "plugins/reqpack/smlpkg"]
+	path = plugins/reqpack/smlpkg
 	url = https://github.com/Coditary/rqp-plugin-smlpkg.git
-[submodule "plugins/reqpack/plugins/snap"]
-	path = plugins/reqpack/plugins/snap
+[submodule "plugins/reqpack/snap"]
+	path = plugins/reqpack/snap
 	url = https://github.com/Coditary/rqp-plugin-snap.git
-[submodule "plugins/reqpack/plugins/snow"]
-	path = plugins/reqpack/plugins/snow
+[submodule "plugins/reqpack/snow"]
+	path = plugins/reqpack/snow
 	url = https://github.com/Coditary/rqp-plugin-snow.git
-[submodule "plugins/reqpack/plugins/snyk"]
-	path = plugins/reqpack/plugins/snyk
+[submodule "plugins/reqpack/snyk"]
+	path = plugins/reqpack/snyk
 	url = https://github.com/Coditary/rqp-plugin-snyk.git
-[submodule "plugins/reqpack/plugins/spago"]
-	path = plugins/reqpack/plugins/spago
+[submodule "plugins/reqpack/spago"]
+	path = plugins/reqpack/spago
 	url = https://github.com/Coditary/rqp-plugin-spago.git
-[submodule "plugins/reqpack/plugins/spm"]
-	path = plugins/reqpack/plugins/spm
+[submodule "plugins/reqpack/spm"]
+	path = plugins/reqpack/spm
 	url = https://github.com/Coditary/rqp-plugin-spm.git
-[submodule "plugins/reqpack/plugins/stack"]
-	path = plugins/reqpack/plugins/stack
+[submodule "plugins/reqpack/stack"]
+	path = plugins/reqpack/stack
 	url = https://github.com/Coditary/rqp-plugin-stack.git
-[submodule "plugins/reqpack/plugins/swiftpm"]
-	path = plugins/reqpack/plugins/swiftpm
+[submodule "plugins/reqpack/swiftpm"]
+	path = plugins/reqpack/swiftpm
 	url = https://github.com/Coditary/rqp-plugin-swiftpm.git
-[submodule "plugins/reqpack/plugins/tads3"]
-	path = plugins/reqpack/plugins/tads3
+[submodule "plugins/reqpack/tads3"]
+	path = plugins/reqpack/tads3
 	url = https://github.com/Coditary/rqp-plugin-tads3.git
-[submodule "plugins/reqpack/plugins/tcllib"]
-	path = plugins/reqpack/plugins/tcllib
+[submodule "plugins/reqpack/tcllib"]
+	path = plugins/reqpack/tcllib
 	url = https://github.com/Coditary/rqp-plugin-tcllib.git
-[submodule "plugins/reqpack/plugins/teacup"]
-	path = plugins/reqpack/plugins/teacup
+[submodule "plugins/reqpack/teacup"]
+	path = plugins/reqpack/teacup
 	url = https://github.com/Coditary/rqp-plugin-teacup.git
-[submodule "plugins/reqpack/plugins/tempify"]
-	path = plugins/reqpack/plugins/tempify
+[submodule "plugins/reqpack/tempify"]
+	path = plugins/reqpack/tempify
 	url = https://github.com/Coditary/rqp-plugin-tempify.git
-[submodule "plugins/reqpack/plugins/texlive"]
-	path = plugins/reqpack/plugins/texlive
+[submodule "plugins/reqpack/texlive"]
+	path = plugins/reqpack/texlive
 	url = https://github.com/Coditary/rqp-plugin-texlive.git
-[submodule "plugins/reqpack/plugins/trivy"]
-	path = plugins/reqpack/plugins/trivy
+[submodule "plugins/reqpack/trivy"]
+	path = plugins/reqpack/trivy
 	url = https://github.com/Coditary/rqp-plugin-trivy.git
-[submodule "plugins/reqpack/plugins/uv"]
-	path = plugins/reqpack/plugins/uv
+[submodule "plugins/reqpack/uv"]
+	path = plugins/reqpack/uv
 	url = https://github.com/Coditary/rqp-plugin-uv.git
-[submodule "plugins/reqpack/plugins/vcpkg"]
-	path = plugins/reqpack/plugins/vcpkg
+[submodule "plugins/reqpack/vcpkg"]
+	path = plugins/reqpack/vcpkg
 	url = https://github.com/Coditary/rqp-plugin-vcpkg.git
-[submodule "plugins/reqpack/plugins/vfp-pm"]
-	path = plugins/reqpack/plugins/vfp-pm
+[submodule "plugins/reqpack/vfp-pm"]
+	path = plugins/reqpack/vfp-pm
 	url = https://github.com/Coditary/rqp-plugin-vfp-pm.git
-[submodule "plugins/reqpack/plugins/vim-plug"]
-	path = plugins/reqpack/plugins/vim-plug
+[submodule "plugins/reqpack/vim-plug"]
+	path = plugins/reqpack/vim-plug
 	url = https://github.com/Coditary/rqp-plugin-vim-plug.git
-[submodule "plugins/reqpack/plugins/vpm"]
-	path = plugins/reqpack/plugins/vpm
+[submodule "plugins/reqpack/vpm"]
+	path = plugins/reqpack/vpm
 	url = https://github.com/Coditary/rqp-plugin-vpm.git
-[submodule "plugins/reqpack/plugins/wasm-bindgen"]
-	path = plugins/reqpack/plugins/wasm-bindgen
+[submodule "plugins/reqpack/wasm-bindgen"]
+	path = plugins/reqpack/wasm-bindgen
 	url = https://github.com/Coditary/rqp-plugin-wasm-bindgen.git
-[submodule "plugins/reqpack/plugins/x10build"]
-	path = plugins/reqpack/plugins/x10build
+[submodule "plugins/reqpack/x10build"]
+	path = plugins/reqpack/x10build
 	url = https://github.com/Coditary/rqp-plugin-x10build.git
-[submodule "plugins/reqpack/plugins/xbps"]
-	path = plugins/reqpack/plugins/xbps
+[submodule "plugins/reqpack/xbps"]
+	path = plugins/reqpack/xbps
 	url = https://github.com/Coditary/rqp-plugin-xbps.git
-[submodule "plugins/reqpack/plugins/yarn"]
-	path = plugins/reqpack/plugins/yarn
+[submodule "plugins/reqpack/yarn"]
+	path = plugins/reqpack/yarn
 	url = https://github.com/Coditary/rqp-plugin-yarn.git
-[submodule "plugins/reqpack/plugins/yay"]
-	path = plugins/reqpack/plugins/yay
+[submodule "plugins/reqpack/yay"]
+	path = plugins/reqpack/yay
 	url = https://github.com/Coditary/rqp-plugin-yay.git
-[submodule "plugins/reqpack/plugins/zef"]
-	path = plugins/reqpack/plugins/zef
+[submodule "plugins/reqpack/zef"]
+	path = plugins/reqpack/zef
 	url = https://github.com/Coditary/rqp-plugin-zef.git
-[submodule "plugins/reqpack/plugins/zig"]
-	path = plugins/reqpack/plugins/zig
+[submodule "plugins/reqpack/zig"]
+	path = plugins/reqpack/zig
 	url = https://github.com/Coditary/rqp-plugin-zig.git
-[submodule "plugins/reqpack/plugins/zinit"]
-	path = plugins/reqpack/plugins/zinit
+[submodule "plugins/reqpack/zinit"]
+	path = plugins/reqpack/zinit
 	url = https://github.com/Coditary/rqp-plugin-zinit.git
-[submodule "plugins/reqpack/plugins/zplug"]
-	path = plugins/reqpack/plugins/zplug
+[submodule "plugins/reqpack/zplug"]
+	path = plugins/reqpack/zplug
 	url = https://github.com/Coditary/rqp-plugin-zplug.git
-[submodule "plugins/reqpack/plugins/zypper"]
-	path = plugins/reqpack/plugins/zypper
+[submodule "plugins/reqpack/zypper"]
+	path = plugins/reqpack/zypper
 	url = https://github.com/Coditary/rqp-plugin-zypper.git
 [submodule "templates"]
 	path = templates
