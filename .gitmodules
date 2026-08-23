@@ -61,12 +61,6 @@
 [submodule "plugins/beez/pipeline"]
 	path = plugins/beez/pipeline
 	url = https://github.com/Coditary/beez-pipeline.git
-[submodule "plugins/beez/registry"]
-	path = plugins/beez/registry
-	url = https://github.com/Coditary/beez-registry.git
-[submodule "plugins/reqpack/registry"]
-	path = plugins/reqpack/registry
-	url = https://github.com/Coditary/rqp-registry.git
 [submodule "plugins/reqpack/template-wrapper"]
 	path = plugins/reqpack/template-wrapper
 	url = https://github.com/Coditary/reqpack-plugin-template-wrapper.git
@@ -523,3 +517,9 @@
 [submodule "templates"]
 	path = templates
 	url = https://github.com/Coditary/tempify-templates.git
+[submodule "registry/beez"]
+	path = registry/beez
+	url = https://github.com/Coditary/beez-registry.git
+[submodule "registry/reqpack"]
+	path = registry/reqpack
+	url = https://github.com/Coditary/rqp-registry.git
