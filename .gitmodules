@@ -523,3 +523,6 @@
 [submodule "plugins/reqpack/beez"]
 	path = plugins/reqpack/beez
 	url = https://github.com/Coditary/rqp-plugin-beez.git
+[submodule "schemas/project-blueprint"]
+	path = schemas/project-blueprint
+	url = https://github.com/Coditary/Project-Blueprint.git
