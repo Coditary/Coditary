@@ -526,3 +526,6 @@
 [submodule "schemas/project-blueprint"]
 	path = schemas/project-blueprint
 	url = https://github.com/Coditary/Project-Blueprint.git
+[submodule "core/ycallr-core"]
+	path = core/ycallr-core
+	url = https://github.com/Coditary/ycallr-core.git
