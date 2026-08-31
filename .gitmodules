@@ -529,3 +529,12 @@
 [submodule "core/ycallr-core"]
 	path = core/ycallr-core
 	url = https://github.com/Coditary/ycallr-core.git
+[submodule "core/std-cpp-parser"]
+	path = core/std-cpp-parser
+	url = https://github.com/Coditary/std-cpp-parser.git
+[submodule "plugins/reqpack/ycallr"]
+	path = plugins/reqpack/ycallr
+	url = https://github.com/Coditary/rqp-plugin-ycallr.git
+[submodule "registry/ycallr"]
+	path = registry/ycallr
+	url = https://github.com/Coditary/ycallr-registry.git
