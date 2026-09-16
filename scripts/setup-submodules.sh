@@ -23,16 +23,18 @@ add_submodule "apps/axio" "Axio"
 add_submodule "apps/beez" "Beez"
 add_submodule "apps/dorch" "Dorch"
 add_submodule "apps/dottery" "Dottery"
+add_submodule "apps/reqpack" "ReqPack"
 add_submodule "apps/ipmc" "Ipmc"
 add_submodule "apps/nexis" "Nexis"
 add_submodule "apps/noctua" "Noctua"
 add_submodule "apps/nxpm" "NXPM"
 add_submodule "apps/prebyte" "Prebyte"
 add_submodule "apps/prebyte-2.0" "Prebyte-2.0"
-add_submodule "apps/reqpack" "ReqPack"
 add_submodule "apps/tempify" "Tempify"
 add_submodule "apps/wuji-ai" "wuji-ai"
 add_submodule "apps/zshaper" "ZShaper"
+add_submodule "apps/teez-cli" "teez-cli"
+add_submodule "apps/dappy" "Dappy"
 
 # Benchmarks (may already exist at repo root)
 add_submodule "benchmarks" "Benchmarks"
@@ -41,11 +43,32 @@ add_submodule "benchmarks" "Benchmarks"
 add_submodule "templates/cpp-default-project" "CPP-Default-Project"
 add_submodule "templates/project-blueprint" "Project-Blueprint"
 
+# Core libraries
+add_submodule "core/teez-core" "teez-core"
+add_submodule "core/teez-worker" "teez-worker"
+add_submodule "core/dappy-core" "dappy-core"
+
 # Beez plugins
 for repo in beez-clang beez-conan beez-coverage beez-cppcheck beez-ctest beez-cyclonedx beez-fuzzer beez-osv-audit beez-pipeline beez-registry; do
   name="${repo#beez-}"
   add_submodule "plugins/beez/${name}" "$repo"
 done
+
+# Teez ecosystem
+add_submodule "plugins/teez" "teez-plugins"
+add_submodule "registry/teez" "teez-registry"
+add_submodule "plugins/reqpack/teez" "rqp-plugin-teez"
+
+# Dappy ecosystem
+add_submodule "plugins/dappy" "dappy-plugins"
+add_submodule "registry/dappy" "dappy-registry"
+add_submodule "plugins/reqpack/dappy" "rqp-plugin-dappy"
+
+# Wuji ecosystem
+add_submodule "core/wuji-core" "wuji-core"
+add_submodule "plugins/wuji" "wuji-driver"
+add_submodule "registry/wuji" "wuji-registry"
+add_submodule "plugins/reqpack/wuji" "rqp-plugin-wuji"
 
 # ReqPack ecosystem
 add_submodule "plugins/reqpack/registry" "rqp-registry"

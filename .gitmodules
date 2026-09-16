@@ -538,3 +538,48 @@
 [submodule "registry/ycallr"]
 	path = registry/ycallr
 	url = https://github.com/Coditary/ycallr-registry.git
+[submodule "core/teez-core"]
+	path = core/teez-core
+	url = https://github.com/Coditary/teez-core.git
+[submodule "core/teez-worker"]
+	path = core/teez-worker
+	url = https://github.com/Coditary/teez-worker.git
+[submodule "apps/teez-cli"]
+	path = apps/teez-cli
+	url = https://github.com/Coditary/teez-cli.git
+[submodule "plugins/teez"]
+	path = plugins/teez
+	url = https://github.com/Coditary/teez-plugins.git
+[submodule "registry/teez"]
+	path = registry/teez
+	url = https://github.com/Coditary/teez-registry.git
+[submodule "plugins/reqpack/teez"]
+	path = plugins/reqpack/teez
+	url = https://github.com/Coditary/rqp-plugin-teez.git
+[submodule "plugins/wuji"]
+	path = plugins/wuji
+	url = https://github.com/Coditary/wuji-driver.git
+[submodule "plugins/reqpack/wuji"]
+	path = plugins/reqpack/wuji
+	url = https://github.com/Coditary/rqp-plugin-wuji.git
+[submodule "registry/wuji"]
+	path = registry/wuji
+	url = https://github.com/Coditary/wuji-registry.git
+[submodule "core/wuji-core"]
+	path = core/wuji-core
+	url = https://github.com/Coditary/wuji-core.git
+[submodule "plugins/reqpack/dappy"]
+	path = plugins/reqpack/dappy
+	url = https://github.com/Coditary/rqp-plugin-dappy.git
+[submodule "plugins/dappy"]
+	path = plugins/dappy
+	url = https://github.com/Coditary/dappy-plugins.git
+[submodule "registry/dappy"]
+	path = registry/dappy
+	url = https://github.com/Coditary/dappy-registry.git
+[submodule "apps/dappy"]
+	path = apps/dappy
+	url = https://github.com/Coditary/Dappy.git
+[submodule "core/dappy-core"]
+	path = core/dappy-core
+	url = https://github.com/Coditary/dappy-core.git
