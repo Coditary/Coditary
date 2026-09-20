@@ -583,3 +583,18 @@
 [submodule "core/dappy-core"]
 	path = core/dappy-core
 	url = https://github.com/Coditary/dappy-core.git
+[submodule "apps/ycallr-cli"]
+	path = apps/ycallr-cli
+	url = https://github.com/Coditary/ycallr-cli.git
+[submodule "core/Tuinator"]
+	path = core/Tuinator
+	url = https://github.com/Coditary/Tuinator.git
+[submodule "plugins/mcps"]
+	path = plugins/mcps
+	url = https://github.com/Coditary/mcps.git
+[submodule "plugins/ycallr-apis"]
+	path = plugins/ycallr-apis
+	url = https://github.com/Coditary/ycallr-apis.git
+[submodule "shared/Shared-Cpp"]
+	path = shared/Shared-Cpp
+	url = https://github.com/Coditary/Shared-Cpp.git
