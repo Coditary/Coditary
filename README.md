@@ -28,13 +28,17 @@ Or run the setup script:
 ```
 Coditary/
 ├── apps/                    # Standalone products and tools
-├── core/                    # Shared libraries (teez, ycallr, …)
+├── core/                    # Shared libraries (teez, ycallr, wuji, …)
+├── tools/                   # Multi-component toolchains (AST, …)
+├── shared/                  # Shared C++ modules (Shared-Cpp)
 ├── benchmarks/              # Reproducible language & framework benchmarks
 ├── registry/                # Package catalogs (beez, reqpack, teez, ycallr, …)
 ├── templates/               # Project starters and blueprints
 ├── plugins/
 │   ├── beez/                # Beez workflow plugins (10)
 │   ├── teez/                # Optional teez runner plugins (vitest, …)
+│   ├── mcps/                # MCP servers wrapping Coditary CLIs
+│   ├── ycallr-apis/         # ycallr API profile definitions
 │   └── reqpack/             # ReqPack registry, template, and plugins (152+)
 └── tempify/                 # Tempify registry and templates (2)
 ```
@@ -57,16 +61,34 @@ Coditary/
 | `apps/tempify` | [Tempify](https://github.com/Coditary/Tempify) |
 | `apps/teez-cli` | [teez-cli](https://github.com/Coditary/teez-cli) |
 | `apps/dappy` | [Dappy](https://github.com/Coditary/Dappy) |
+| `apps/tuinator` | [Tuinator-CLI](https://github.com/Coditary/Tuinator-CLI) |
 | `apps/wuji-ai` | [wuji-ai](https://github.com/Coditary/wuji-ai) |
+| `apps/ycallr-cli` | [ycallr-cli](https://github.com/Coditary/ycallr-cli) |
 | `apps/zshaper` | [ZShaper](https://github.com/Coditary/ZShaper) |
 
 ### Core
 
 | Path | Repository |
 |------|------------|
+| `core/dappy-core` | [dappy-core](https://github.com/Coditary/dappy-core) |
+| `core/std-cpp-parser` | [std-cpp-parser](https://github.com/Coditary/std-cpp-parser) |
 | `core/teez-core` | [teez-core](https://github.com/Coditary/teez-core) |
 | `core/teez-worker` | [teez-worker](https://github.com/Coditary/teez-worker) |
-| `core/dappy-core` | [dappy-core](https://github.com/Coditary/dappy-core) |
+| `core/Tuinator` | [Tuinator](https://github.com/Coditary/Tuinator) |
+| `core/wuji-core` | [wuji-core](https://github.com/Coditary/wuji-core) |
+| `core/ycallr-core` | [ycallr-core](https://github.com/Coditary/ycallr-core) |
+
+### Tools
+
+| Path | Repository | Notes |
+|------|------------|-------|
+| `tools/ast` | [ast](https://github.com/Coditary/ast) | Parser (`parser-core` / `parser-cli`), linter, formatter, refactor |
+
+### Shared
+
+| Path | Repository |
+|------|------------|
+| `shared/Shared-Cpp` | [Shared-Cpp](https://github.com/Coditary/Shared-Cpp) |
 
 ### Templates
 
@@ -81,6 +103,8 @@ Coditary/
 - **Teez** (`plugins/teez/`): optional runner plugins (e.g. vitest); ReqPack installer at `plugins/reqpack/teez`
 - **Dappy** (`plugins/dappy/`): optional adapter/target manifests (python, gdbserver, …); ReqPack installer at `plugins/reqpack/dappy`
 - **ReqPack** (`plugins/reqpack/`): registry, template-wrapper, and 150+ language/tool plugins
+- **MCP** (`plugins/mcps/`): Go MCP servers wrapping Coditary CLIs (reqpack, parser-cli, beez, …)
+- **ycallr** (`plugins/ycallr-apis/`): API profile definitions for ycallr
 
 ### Registries
 
@@ -88,6 +112,8 @@ Coditary/
 |------|------------|
 | `registry/teez` | [teez-registry](https://github.com/Coditary/teez-registry) |
 | `registry/dappy` | [dappy-registry](https://github.com/Coditary/dappy-registry) |
+| `registry/wuji` | [wuji-registry](https://github.com/Coditary/wuji-registry) |
+| `registry/ycallr` | [ycallr-registry](https://github.com/Coditary/ycallr-registry) |
 
 ### Tempify
 
@@ -98,6 +124,6 @@ Coditary/
 
 ## Submodule count
 
-187 public repositories are linked as submodules (188 public repos minus this monorepo itself).
+202 public repositories are linked as submodules (203 public repos minus this monorepo itself).
 
 Private repositories are not included.
