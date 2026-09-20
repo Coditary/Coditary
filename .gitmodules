@@ -598,3 +598,6 @@
 [submodule "shared/Shared-Cpp"]
 	path = shared/Shared-Cpp
 	url = https://github.com/Coditary/Shared-Cpp.git
+[submodule "apps/tuinator"]
+	path = apps/tuinator
+	url = https://github.com/Coditary/Tuinator-CLI.git
