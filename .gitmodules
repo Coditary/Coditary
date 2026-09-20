@@ -601,3 +601,6 @@
 [submodule "apps/tuinator"]
 	path = apps/tuinator
 	url = https://github.com/Coditary/Tuinator-CLI.git
+[submodule "tools/ast"]
+	path = tools/ast
+	url = https://github.com/Coditary/ast.git
