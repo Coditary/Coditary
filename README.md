@@ -57,6 +57,7 @@ Coditary/
 | `apps/nxpm` | [NXPM](https://github.com/Coditary/NXPM) |
 | `apps/prebyte` | [Prebyte](https://github.com/Coditary/Prebyte) |
 | `apps/prebyte-2.0` | [Prebyte-2.0](https://github.com/Coditary/Prebyte-2.0) |
+| `apps/parser-cli` | [parser-cli](https://github.com/Coditary/parser-cli) |
 | `apps/reqpack` | [ReqPack](https://github.com/Coditary/ReqPack) |
 | `apps/tempify` | [Tempify](https://github.com/Coditary/Tempify) |
 | `apps/teez-cli` | [teez-cli](https://github.com/Coditary/teez-cli) |
@@ -71,6 +72,7 @@ Coditary/
 | Path | Repository |
 |------|------------|
 | `core/dappy-core` | [dappy-core](https://github.com/Coditary/dappy-core) |
+| `core/parser-core` | [parser-core](https://github.com/Coditary/parser-core) |
 | `core/std-cpp-parser` | [std-cpp-parser](https://github.com/Coditary/std-cpp-parser) |
 | `core/teez-core` | [teez-core](https://github.com/Coditary/teez-core) |
 | `core/teez-worker` | [teez-worker](https://github.com/Coditary/teez-worker) |
@@ -82,7 +84,7 @@ Coditary/
 
 | Path | Repository | Notes |
 |------|------------|-------|
-| `tools/ast` | [ast](https://github.com/Coditary/ast) | Parser (`parser-core` / `parser-cli`), linter, formatter, refactor |
+| `tools/ast` | [ast](https://github.com/Coditary/ast) | AST wire consumer toolchain (linter, formatter, refactor); producer is `core/parser-core` + `apps/parser-cli` |
 
 ### Shared
 

@@ -604,3 +604,9 @@
 [submodule "tools/ast"]
 	path = tools/ast
 	url = https://github.com/Coditary/ast.git
+[submodule "core/parser-core"]
+	path = core/parser-core
+	url = https://github.com/Coditary/parser-core.git
+[submodule "apps/parser-cli"]
+	path = apps/parser-cli
+	url = https://github.com/Coditary/parser-cli.git
