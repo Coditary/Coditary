@@ -40,7 +40,8 @@ Coditary/
 │   ├── mcps/                # MCP servers wrapping Coditary CLIs
 │   ├── ycallr-apis/         # ycallr API profile definitions
 │   └── reqpack/             # ReqPack registry, template, and plugins (152+)
-└── tempify/                 # Tempify registry and templates (2)
+├── registry/tempify         # Tempify catalog (templates.json)
+└── templates/               # tempify-templates (tempify-tpl, …)
 ```
 
 ### Apps
@@ -101,7 +102,7 @@ Coditary/
 
 ### Plugins
 
-- **Beez** (`plugins/beez/`): clang, conan, coverage, cppcheck, ctest, cyclonedx, fuzzer, osv-audit, pipeline, registry
+- **Beez** (`plugins/beez/`): [beez-plugins](https://github.com/Coditary/beez-plugins) monorepo (a–z); catalog at `registry/beez`
 - **Teez** (`plugins/teez/`): optional runner plugins (e.g. vitest); ReqPack installer at `plugins/reqpack/teez`
 - **Dappy** (`plugins/dappy/`): optional adapter/target manifests (python, gdbserver, …); ReqPack installer at `plugins/reqpack/dappy`
 - **ReqPack** (`plugins/reqpack/`): registry, template-wrapper, and 150+ language/tool plugins
@@ -112,17 +113,25 @@ Coditary/
 
 | Path | Repository |
 |------|------------|
+| `registry/beez` | [beez-registry](https://github.com/Coditary/beez-registry) |
 | `registry/teez` | [teez-registry](https://github.com/Coditary/teez-registry) |
 | `registry/dappy` | [dappy-registry](https://github.com/Coditary/dappy-registry) |
 | `registry/wuji` | [wuji-registry](https://github.com/Coditary/wuji-registry) |
+| `registry/tempify` | [tempify-registry](https://github.com/Coditary/tempify-registry) |
 | `registry/ycallr` | [ycallr-registry](https://github.com/Coditary/ycallr-registry) |
 
 ### Tempify
 
 | Path | Repository |
 |------|------------|
-| `tempify/registry` | [tempify-registry](https://github.com/Coditary/tempify-registry) |
-| `tempify/templates` | [tempify-templates](https://github.com/Coditary/tempify-templates) |
+| `registry/tempify` | [tempify-registry](https://github.com/Coditary/tempify-registry) |
+| `templates` | [tempify-templates](https://github.com/Coditary/tempify-templates) |
+
+### ycallr (dev)
+
+| Path | Notes |
+|------|--------|
+| `tools/ycallr/` | Pling docs (`AGENTS.md`), OpenAPI import scripts (not a submodule) |
 
 ## Submodule count
 

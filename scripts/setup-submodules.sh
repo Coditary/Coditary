@@ -48,11 +48,9 @@ add_submodule "core/teez-core" "teez-core"
 add_submodule "core/teez-worker" "teez-worker"
 add_submodule "core/dappy-core" "dappy-core"
 
-# Beez plugins
-for repo in beez-clang beez-conan beez-coverage beez-cppcheck beez-ctest beez-cyclonedx beez-fuzzer beez-osv-audit beez-pipeline beez-registry; do
-  name="${repo#beez-}"
-  add_submodule "plugins/beez/${name}" "$repo"
-done
+# Beez plugins (monorepo + registry)
+add_submodule "plugins/beez" "beez-plugins"
+add_submodule "registry/beez" "beez-registry"
 
 # Teez ecosystem
 add_submodule "plugins/teez" "teez-plugins"
@@ -80,7 +78,14 @@ while IFS= read -r repo; do
 done < <(gh repo list Coditary --limit 500 --json name,isPrivate --jq '.[] | select(.isPrivate == false) | select(.name | startswith("rqp-plugin-")) | .name' | sort)
 
 # Tempify ecosystem
-add_submodule "tempify/registry" "tempify-registry"
-add_submodule "tempify/templates" "tempify-templates"
+add_submodule "registry/tempify" "tempify-registry"
+add_submodule "templates" "tempify-templates"
+
+# ycallr ecosystem
+add_submodule "core/ycallr-core" "ycallr-core"
+add_submodule "apps/ycallr-cli" "ycallr-cli"
+add_submodule "plugins/ycallr-apis" "ycallr-apis"
+add_submodule "registry/ycallr" "ycallr-registry"
+add_submodule "plugins/reqpack/ycallr" "rqp-plugin-ycallr"
 
 echo "Done. Submodule count: $(git submodule status | wc -l)"

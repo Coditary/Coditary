@@ -19,6 +19,9 @@
 [submodule "apps/prebyte"]
 	path = apps/prebyte
 	url = https://github.com/Coditary/Prebyte.git
+[submodule "core/prebyte-engine"]
+	path = core/prebyte-engine
+	url = https://github.com/Coditary/prebyte-engine.git
 [submodule "apps/reqpack"]
 	path = apps/reqpack
 	url = https://github.com/Coditary/ReqPack.git
@@ -31,33 +34,6 @@
 [submodule "apps/zshaper"]
 	path = apps/zshaper
 	url = https://github.com/Coditary/ZShaper.git
-[submodule "plugins/beez/clang"]
-	path = plugins/beez/clang
-	url = https://github.com/Coditary/beez-clang.git
-[submodule "plugins/beez/conan"]
-	path = plugins/beez/conan
-	url = https://github.com/Coditary/beez-conan.git
-[submodule "plugins/beez/coverage"]
-	path = plugins/beez/coverage
-	url = https://github.com/Coditary/beez-coverage.git
-[submodule "plugins/beez/cppcheck"]
-	path = plugins/beez/cppcheck
-	url = https://github.com/Coditary/beez-cppcheck.git
-[submodule "plugins/beez/ctest"]
-	path = plugins/beez/ctest
-	url = https://github.com/Coditary/beez-ctest.git
-[submodule "plugins/beez/cyclonedx"]
-	path = plugins/beez/cyclonedx
-	url = https://github.com/Coditary/beez-cyclonedx.git
-[submodule "plugins/beez/fuzzer"]
-	path = plugins/beez/fuzzer
-	url = https://github.com/Coditary/beez-fuzzer.git
-[submodule "plugins/beez/osv-audit"]
-	path = plugins/beez/osv-audit
-	url = https://github.com/Coditary/beez-osv-audit.git
-[submodule "plugins/beez/pipeline"]
-	path = plugins/beez/pipeline
-	url = https://github.com/Coditary/beez-pipeline.git
 [submodule "plugins/reqpack/a2"]
 	path = plugins/reqpack/a2
 	url = https://github.com/Coditary/rqp-plugin-a2.git
@@ -610,3 +586,6 @@
 [submodule "apps/parser-cli"]
 	path = apps/parser-cli
 	url = https://github.com/Coditary/parser-cli.git
+[submodule "plugins/beez"]
+	path = plugins/beez
+	url = https://github.com/Coditary/beez-plugins.git
